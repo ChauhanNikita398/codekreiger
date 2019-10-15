@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">codekreiger</string>
+    <string name="slide1">\tThe questions are in the form of\n \t code snippets of C language.\n \t
+        Each code snippet will give you\n \t instructions that will help you in\n traversing the path that leads you \n\tfrom one checkpoint to another.</string>
+    <string name="slide2">\tWhen you reach the checkpoint[HOPEFULLY:)]\n\tyou will see a QR CODE ,\n\t click on the submit button at the end of question\n\t that
+        will take you\n\t to a screen where you have to \n\t scan the QR CODE.</string>
+    <string name="slide3">\tIf the checkpoint is correct\n\t the QR CODE will be scanned successfully\n\t
+        and you will next see a dialog box \n\twhere you have to answer the question\n\t asked at the end of code.</string>
+    <string name="button">Menu</string>
+</resources>

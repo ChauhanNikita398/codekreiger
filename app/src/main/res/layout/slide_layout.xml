@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/slideImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="300dp"
+        app:srcCompat="@drawable/paanda" />
+
+    <TextView
+        android:id="@+id/slide_descs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="false"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="430dp"
+        android:background="@android:color/transparent"
+        android:fontFamily="casual"
+        android:gravity="bottom|center"
+        android:lineSpacingExtra="8sp"
+        android:text="@string/slide1"
+        android:textColor="@android:color/white" />
+
+</RelativeLayout>
